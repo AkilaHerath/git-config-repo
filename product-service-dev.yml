@@ -1,1 +1,2 @@
-welcome.message = Welcome to product service in dev env.
+welcome:
+  message: Welcome to product service in dev env.
